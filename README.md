@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Min0504-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Min0504)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%2F%20Project-0A7A4B?style=for-the-badge)](https://github.com/Min0504)
 [![Apps in Toss](https://img.shields.io/badge/Apps%20in%20Toss-Builder-0064FF?style=for-the-badge)](https://github.com/Min0504/sojunglog)
-[![LikeLion](https://img.shields.io/badge/LikeLion-GNU-FF6B00?style=for-the-badge)](https://github.com/Min0504)
+[![LikeLion](https://img.shields.io/badge/LikeLion-Member-FF6B00?style=for-the-badge)](https://github.com/Min0504)
 
 웹·미니앱·풀스택으로 **실제로 쓰이는 제품**을 만듭니다.  
 *Building products people can click, ship, and iterate on.*
@@ -18,7 +18,7 @@
 
 ## About
 
-경상국립대(GNU) 계열에서 개발을 배우며, **아이디어 → 배포 → 피드백** 루프를 빠르게 도는 걸 좋아합니다.  
+대학생으로 개발을 배우며, **아이디어 → 배포 → 피드백** 루프를 빠르게 도는 걸 좋아합니다.  
 멋쟁이사자처럼·Apps in Toss·팀 프로젝트에서 프론트부터 백엔드·인프라까지 손을 댑니다.
 
 **지향하는 바**
