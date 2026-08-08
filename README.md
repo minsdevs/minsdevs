@@ -59,9 +59,9 @@
 
 날씨·대기질 + 피부 이미지 분석으로 추천. Expo / NestJS / Prisma / FastAPI·ML / AWS.
 
-[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)](https://github.com/Min0504/todayskin-guide)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](https://github.com/Min0504/todayskin-guide)
-[![Guide](https://img.shields.io/badge/public-todayskin--guide-informational)](https://github.com/Min0504/todayskin-guide)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Private](https://img.shields.io/badge/repo-private-lightgrey)
 
 </td>
 </tr>
@@ -175,7 +175,7 @@
 4. **막힌 지점** — 버그·성능·협업에서 어떻게 풀었는지
 5. **다음 개선** — 지금 다시 만든다면 무엇을 바꿀지
 
-> 프로젝트 소개가 필요하면 repo README · live 링크 · `todayskin-guide`를 기준으로 이야기할 수 있습니다.
+> 프로젝트 소개가 필요하면 공개 repo README · live 링크를 기준으로 이야기할 수 있습니다. Todayskin은 팀/비공개 저장소라 면접에서 화면·역할 중심으로 설명합니다.
 
 ---
 
