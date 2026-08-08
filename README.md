@@ -45,9 +45,12 @@
 
 사기 전에 AI가 비교·결론을 내고, 산 뒤에는 가격 추적과 타이밍 알림까지.
 
-[![Live](https://img.shields.io/badge/live-axis--app--beta.vercel.app-000?logo=vercel)](https://axis-app-beta.vercel.app)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)](https://github.com/Min0504/Axis)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)](https://github.com/Min0504/Axis)
+[![Live](https://img.shields.io/badge/live-Vercel-000?logo=vercel&logoColor=white)](https://axis-app-beta.vercel.app)
+![Next.js](https://img.shields.io/badge/Next.js%20API-000?logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-Llama-F55036)
+![Cron](https://img.shields.io/badge/Cron%20%2F%20Alerts-555)
 
 </td>
 <td width="50%" valign="top">
@@ -55,11 +58,16 @@
 ### Todayskin *(team)*
 **피부 · 날씨 기반 스킨케어 앱**
 
-날씨·대기질 + 피부 이미지 분석으로 추천. Expo / NestJS / Prisma / FastAPI·ML / AWS.
+날씨·대기질 + 피부 이미지 분석으로 추천하는 풀스택 앱.
 
-![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Private](https://img.shields.io/badge/repo-private-lightgrey)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-queue-e6484c)
+![AWS](https://img.shields.io/badge/AWS%20ECS-FF9900?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -72,8 +80,10 @@
 사진·체중·마일스톤 배지·성장 카드 공유.
 
 [![Toss](https://img.shields.io/badge/Apps%20in%20Toss-0064FF)](https://github.com/Min0504/sojunglog)
-[![React](https://img.shields.io/badge/React-TS-61DAFB?logo=react)](https://github.com/Min0504/sojunglog)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)](https://github.com/Min0504/sojunglog)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -84,8 +94,10 @@
 1인 모드 + Realtime 멀티 + 리더보드.
 
 [![Toss](https://img.shields.io/badge/Apps%20in%20Toss-0064FF)](https://github.com/Min0504/zero-point-two)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Canvas-3178C6?logo=typescript&logoColor=white)](https://github.com/Min0504/zero-point-two)
-[![Realtime](https://img.shields.io/badge/Supabase-Realtime-3FCF8E?logo=supabase&logoColor=white)](https://github.com/Min0504/zero-point-two)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Realtime-3FCF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 </td>
 </tr>
@@ -97,9 +109,12 @@
 
 악플은 가리고, 유효한 비판만 주제별로 정리.
 
-[![Live](https://img.shields.io/badge/live-feedgrow.onrender.com-46E3B7)](https://feedgrow.onrender.com)
-[![Express](https://img.shields.io/badge/Express-TypeScript-000?logo=express)](https://github.com/Min0504/FeedGrow)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://github.com/Min0504/FeedGrow)
+[![Live](https://img.shields.io/badge/live-Render-46E3B7?logo=render&logoColor=white)](https://feedgrow.onrender.com)
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1)
+![Apify](https://img.shields.io/badge/Apify-Scraper-00C7B7)
 
 </td>
 <td width="50%" valign="top">
@@ -109,9 +124,11 @@
 
 프롬프트 기반 얼굴 이미지 생성 · React + Vite.
 
-[![Live](https://img.shields.io/badge/live-likelionbyai.vercel.app-000?logo=vercel)](https://likelionbyai.vercel.app)
-[![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google)](https://github.com/Min0504/likelionbyai)
-[![Vite](https://img.shields.io/badge/Vite-React-646CFF?logo=vite&logoColor=white)](https://github.com/Min0504/likelionbyai)
+[![Live](https://img.shields.io/badge/live-Vercel-000?logo=vercel&logoColor=white)](https://likelionbyai.vercel.app)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?logo=googlegemini&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 </td>
 </tr>
