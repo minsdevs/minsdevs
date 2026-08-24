@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Code Intelligence *(private)*
+### [Code Intelligence](https://github.com/Min0504/code-intelligence)
 **저장소 분석 · AI 탐색 워크스페이스**
 
 GitHub 저장소 전체를 정적 분석해 아키텍처·호출 흐름·의존성·이력을 탐색하고, 근거 기반 AI 어시스턴트로 설명하는 로컬 워크스페이스.
@@ -52,7 +52,7 @@ GitHub 저장소 전체를 정적 분석해 아키텍처·호출 흐름·의존�
 </td>
 <td width="50%" valign="top">
 
-### Todayskin *(team)*
+### [Todayskin](https://github.com/jae-ho93/Todayskin) *(team)*
 **피부 · 날씨 기반 스킨케어 앱**
 
 날씨·대기질 + 피부 이미지 분석으로 추천하는 풀스택 앱.
@@ -185,7 +185,7 @@ Obsidian 노트·코드·git 커밋·브라우저 북마크를 하나로 훑고 
 4. **막힌 지점** — 버그·성능·협업에서 어떻게 풀었는지
 5. **다음 개선** — 지금 다시 만든다면 무엇을 바꿀지
 
-> Todayskin은 팀/비공개 저장소입니다. 공개 프로젝트는 repo README · live 링크로 확인할 수 있습니다.
+> 자세한 구현과 트레이드오프는 각 repo의 README에서 확인할 수 있습니다.
 
 ---
 
