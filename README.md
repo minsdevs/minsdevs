@@ -40,17 +40,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Axis](https://github.com/Min0504/Axis)
-**전자제품 구매 결정 도구**
+### Code Intelligence *(private)*
+**저장소 분석 · AI 탐색 워크스페이스**
 
-사기 전에 AI가 비교·결론을 내고, 산 뒤에는 가격 추적과 타이밍 알림까지.
+GitHub 저장소 전체를 정적 분석해 아키텍처·호출 흐름·의존성·이력을 탐색하고, 근거 기반 AI 어시스턴트로 설명하는 로컬 워크스페이스.
 
-[![Live](https://img.shields.io/badge/live-Vercel-000?logo=vercel&logoColor=white)](https://axis-app-beta.vercel.app)
-![Next.js](https://img.shields.io/badge/Next.js%20API-000?logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-Llama-F55036)
-![Cron](https://img.shields.io/badge/Cron%20%2F%20Alerts-555)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-61DAFB?logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?logo=postgresql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -74,61 +71,52 @@
 <tr>
 <td width="50%" valign="top">
 
-### [소중로그](https://github.com/Min0504/sojunglog)
-**펫 성장 다이어리** · Apps in Toss
+### [dev-cockpit](https://github.com/Min0504/dev-cockpit)
+**로컬 개발환경 macOS 메뉴바 대시보드**
 
-사진·체중·마일스톤 배지·성장 카드 공유.
+포트·프로세스·프로젝트·Docker·Git 상태와 헬스체크를 항상 보이는 메뉴바에서 확인하고 원클릭으로 제어.
 
-[![Toss](https://img.shields.io/badge/Apps%20in%20Toss-0064FF)](https://github.com/Min0504/sojunglog)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Menu%20Bar-000?logo=apple&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### [0.2초](https://github.com/Min0504/zero-point-two)
-**반사신경 Canvas 게임** · Apps in Toss
+### [Axis](https://github.com/Min0504/Axis)
+**전자제품 구매 결정 도구**
 
-1인 모드 + Realtime 멀티 + 리더보드.
+사기 전에 AI가 비교·결론을 내고, 산 뒤에는 가격 추적과 타이밍 알림까지.
 
-[![Toss](https://img.shields.io/badge/Apps%20in%20Toss-0064FF)](https://github.com/Min0504/zero-point-two)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Realtime-3FCF8E?logo=supabase&logoColor=white)
+[![Live](https://img.shields.io/badge/live-Vercel-000?logo=vercel&logoColor=white)](https://axis-app-beta.vercel.app)
+![Next.js](https://img.shields.io/badge/Next.js%20API-000?logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-Llama-F55036)
+![Cron](https://img.shields.io/badge/Cron%20%2F%20Alerts-555)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [FeedGrow](https://github.com/Min0504/FeedGrow)
-**SNS 댓글 분석 MVP**
+### [AutoAiHub](https://github.com/Min0504/AutoAiHub)
+**업무 자동화 도구 비교 · 제휴 포털**
 
-악플은 가리고, 유효한 비판만 주제별로 정리.
+n8n·Make·Zapier를 한국어로 비교하고 제휴 정보까지 한눈에.
 
-[![Live](https://img.shields.io/badge/live-Render-46E3B7?logo=render&logoColor=white)](https://feedgrow.onrender.com)
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
+[![Live](https://img.shields.io/badge/live-Vercel-000?logo=vercel&logoColor=white)](https://autohub-ai.vercel.app)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1)
-![Apify](https://img.shields.io/badge/Apify-Scraper-00C7B7)
 
 </td>
 <td width="50%" valign="top">
 
-### [likelionbyai](https://github.com/Min0504/likelionbyai)
-**Gemini 얼굴 생성 웹앱**
+### [dev-finder](https://github.com/Min0504/dev-finder)
+**로컬 통합 검색 CLI**
 
-프롬프트 기반 얼굴 이미지 생성 · React + Vite.
+Obsidian 노트·코드·git 커밋·브라우저 북마크를 하나로 훑고 fzf 피커로 고른다.
 
-[![Live](https://img.shields.io/badge/live-Vercel-000?logo=vercel&logoColor=white)](https://likelionbyai.vercel.app)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?logo=googlegemini&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![fzf](https://img.shields.io/badge/fzf-picker-e6484c)
 
 </td>
 </tr>
@@ -139,7 +127,10 @@
 
 | Project | Summary | Link |
 |--------|---------|------|
-| **AutoAiHub** | n8n / Make / Zapier 비교·제휴 포털 | [repo](https://github.com/Min0504/AutoAiHub) · [live](https://autohub-ai.vercel.app) |
+| **소중로그** | 펫 성장 다이어리 · Apps in Toss | [repo](https://github.com/Min0504/sojunglog) |
+| **0.2초** | 반사신경 Canvas 게임 · Apps in Toss | [repo](https://github.com/Min0504/zero-point-two) |
+| **FeedGrow** | SNS 댓글 분석 MVP | [repo](https://github.com/Min0504/FeedGrow) · [live](https://feedgrow.onrender.com) |
+| **likelionbyai** | Gemini 얼굴 생성 웹앱 | [repo](https://github.com/Min0504/likelionbyai) · [live](https://likelionbyai.vercel.app) |
 | **port-map** | 로컬 포트 점유 데스크톱 위젯 | [repo](https://github.com/Min0504/port-map) |
 | **오름장** *(private)* | 안전결제 중고 경매 + 고정가 마켓 | — |
 | **안팔았더라면** *(private)* | 주식/코인 반사실 시뮬레이터 (Apps in Toss) | — |
