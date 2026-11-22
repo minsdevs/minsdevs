@@ -4,10 +4,10 @@
 
 ### CS student · Product-minded full-stack builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-Min0504-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Min0504)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%2F%20Project-0A7A4B?style=for-the-badge)](https://github.com/Min0504)
-[![Apps in Toss](https://img.shields.io/badge/Apps%20in%20Toss-Builder-0064FF?style=for-the-badge)](https://github.com/Min0504/sojunglog)
-[![LikeLion](https://img.shields.io/badge/LikeLion-Member-FF6B00?style=for-the-badge)](https://github.com/Min0504)
+[![GitHub](https://img.shields.io/badge/GitHub-minsdevs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minsdevs)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%2F%20Project-0A7A4B?style=for-the-badge)](https://github.com/minsdevs)
+[![Apps in Toss](https://img.shields.io/badge/Apps%20in%20Toss-Builder-0064FF?style=for-the-badge)](https://github.com/minsdevs/sojunglog)
+[![LikeLion](https://img.shields.io/badge/LikeLion-Member-FF6B00?style=for-the-badge)](https://github.com/minsdevs)
 
 웹·미니앱·풀스택으로 **실제로 쓰이는 제품**을 만듭니다.  
 *Building products people can click, ship, and iterate on.*
@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Code Intelligence](https://github.com/Min0504/code-intelligence)
+### [Code Intelligence](https://github.com/minsdevs/code-intelligence)
 **저장소 분석 · AI 탐색 워크스페이스**
 
 GitHub 저장소 전체를 정적 분석해 아키텍처·호출 흐름·의존성·이력을 탐색하고, 근거 기반 AI 어시스턴트로 설명하는 로컬 워크스페이스.
@@ -71,7 +71,7 @@ GitHub 저장소 전체를 정적 분석해 아키텍처·호출 흐름·의존�
 <tr>
 <td width="50%" valign="top">
 
-### [dev-cockpit](https://github.com/Min0504/dev-cockpit)
+### [dev-cockpit](https://github.com/minsdevs/dev-cockpit)
 **로컬 개발환경 macOS 메뉴바 대시보드**
 
 포트·프로세스·프로젝트·Docker·Git 상태와 헬스체크를 항상 보이는 메뉴바에서 확인하고 원클릭으로 제어.
@@ -82,7 +82,7 @@ GitHub 저장소 전체를 정적 분석해 아키텍처·호출 흐름·의존�
 </td>
 <td width="50%" valign="top">
 
-### [Axis](https://github.com/Min0504/Axis)
+### [Axis](https://github.com/minsdevs/Axis)
 **전자제품 구매 결정 도구**
 
 사기 전에 AI가 비교·결론을 내고, 산 뒤에는 가격 추적과 타이밍 알림까지.
@@ -99,7 +99,7 @@ GitHub 저장소 전체를 정적 분석해 아키텍처·호출 흐름·의존�
 <tr>
 <td width="50%" valign="top">
 
-### [AutoAiHub](https://github.com/Min0504/AutoAiHub)
+### [AutoAiHub](https://github.com/minsdevs/AutoAiHub)
 **업무 자동화 도구 비교 · 제휴 포털**
 
 n8n·Make·Zapier를 한국어로 비교하고 제휴 정보까지 한눈에.
@@ -110,7 +110,7 @@ n8n·Make·Zapier를 한국어로 비교하고 제휴 정보까지 한눈에.
 </td>
 <td width="50%" valign="top">
 
-### [dev-finder](https://github.com/Min0504/dev-finder)
+### [dev-finder](https://github.com/minsdevs/dev-finder)
 **로컬 통합 검색 CLI**
 
 Obsidian 노트·코드·git 커밋·브라우저 북마크를 하나로 훑고 fzf 피커로 고른다.
@@ -127,11 +127,11 @@ Obsidian 노트·코드·git 커밋·브라우저 북마크를 하나로 훑고 
 
 | Project | Summary | Link |
 |--------|---------|------|
-| **소중로그** | 펫 성장 다이어리 · Apps in Toss | [repo](https://github.com/Min0504/sojunglog) |
-| **0.2초** | 반사신경 Canvas 게임 · Apps in Toss | [repo](https://github.com/Min0504/zero-point-two) |
-| **FeedGrow** | SNS 댓글 분석 MVP | [repo](https://github.com/Min0504/FeedGrow) · [live](https://feedgrow.onrender.com) |
-| **likelionbyai** | Gemini 얼굴 생성 웹앱 | [repo](https://github.com/Min0504/likelionbyai) · [live](https://likelionbyai.vercel.app) |
-| **port-map** | 로컬 포트 점유 데스크톱 위젯 | [repo](https://github.com/Min0504/port-map) |
+| **소중로그** | 펫 성장 다이어리 · Apps in Toss | [repo](https://github.com/minsdevs/sojunglog) |
+| **0.2초** | 반사신경 Canvas 게임 · Apps in Toss | [repo](https://github.com/minsdevs/zero-point-two) |
+| **FeedGrow** | SNS 댓글 분석 MVP | [repo](https://github.com/minsdevs/FeedGrow) · [live](https://feedgrow.onrender.com) |
+| **likelionbyai** | Gemini 얼굴 생성 웹앱 | [repo](https://github.com/minsdevs/likelionbyai) |
+| **port-map** | 로컬 포트 점유 데스크톱 위젯 | [repo](https://github.com/minsdevs/port-map) |
 | **오름장** *(private)* | 안전결제 중고 경매 + 고정가 마켓 | — |
 | **안팔았더라면** *(private)* | 주식/코인 반사실 시뮬레이터 (Apps in Toss) | — |
 
@@ -192,12 +192,12 @@ Obsidian 노트·코드·git 커밋·브라우저 북마크를 하나로 훑고 
 ## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Min0504&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Min0504&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=minsdevs&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsdevs&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Min0504&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=minsdevs&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
@@ -205,10 +205,10 @@ Obsidian 노트·코드·git 커밋·브라우저 북마크를 하나로 훑고 
 <div align="center">
 
 **함께 만들고 싶거나, 인턴·프로젝트 제안이 있다면**  
-GitHub에서 이슈/메일로 편하게 연락 주세요 → [Min0504](https://github.com/Min0504)
+GitHub에서 이슈/메일로 편하게 연락 주세요 → [minsdevs](https://github.com/minsdevs)
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Min0504&style=flat-square&color=0A7A4B)
+![Profile views](https://komarev.com/ghpvc/?username=minsdevs&style=flat-square&color=0A7A4B)
 
 </div>
